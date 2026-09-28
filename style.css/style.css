@@ -1,0 +1,77 @@
+.body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 900px;
+  margin: 0 auto 15px auto;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+table {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  border: 3px solid #000;
+  text-align: center;
+  background-color: #fff;
+}
+
+th, td {
+  border: 1px solid #000;
+  padding: 8px 4px;
+  vertical-align: middle;
+  font-size: 0.95rem;
+}
+
+th {
+  font-size: 1.2rem;
+  font-weight: bold;
+  height: 40px;
+  background-color: #ffffff;
+}
+
+.corner-header {
+  background-color: #b0b0b0;
+  width: 15%;
+}
+
+.hora {
+  font-weight: bold;
+  font-size: 1.1rem;
+  background-color: #ffffff;
+  width: 15%;
+}
+
+.horari {
+  width: 17%;
+}
+
+.aso { background-color: #d8ceeb; }       
+.bbdd { background-color: #fdf3a9; }     
+.progra { background-color: #d1e4e6; }    
+.marques { background-color: #fdf3a9; }   
+.tutoria { background-color: #f3c2c2; }   
+.sx { background-color: #fce1cd; }        
+.iso { background-color: #c9daf8; }       
+.fm { background-color: #d9ead3; }        
+
+.recreo {
+  background-color: #d9d9d9;
+  height: 15px;
+}
+
+.asignatura {
+  font-weight: normal;
+}
+
+.cell-sub {
+  font-size: 0.9rem;
+}
